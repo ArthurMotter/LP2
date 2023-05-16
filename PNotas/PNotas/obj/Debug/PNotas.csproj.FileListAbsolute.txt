@@ -1,0 +1,10 @@
+C:\Users\0030482221013\source\repos\PNotas\PNotas\bin\Debug\PNotas.exe.config
+C:\Users\0030482221013\source\repos\PNotas\PNotas\bin\Debug\PNotas.exe
+C:\Users\0030482221013\source\repos\PNotas\PNotas\bin\Debug\PNotas.pdb
+C:\Users\0030482221013\source\repos\PNotas\PNotas\obj\Debug\PNotas.csprojAssemblyReference.cache
+C:\Users\0030482221013\source\repos\PNotas\PNotas\obj\Debug\PNotas.Form1.resources
+C:\Users\0030482221013\source\repos\PNotas\PNotas\obj\Debug\PNotas.Properties.Resources.resources
+C:\Users\0030482221013\source\repos\PNotas\PNotas\obj\Debug\PNotas.csproj.GenerateResource.cache
+C:\Users\0030482221013\source\repos\PNotas\PNotas\obj\Debug\PNotas.csproj.CoreCompileInputs.cache
+C:\Users\0030482221013\source\repos\PNotas\PNotas\obj\Debug\PNotas.exe
+C:\Users\0030482221013\source\repos\PNotas\PNotas\obj\Debug\PNotas.pdb
